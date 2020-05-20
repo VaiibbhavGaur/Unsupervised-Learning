@@ -14,6 +14,6 @@ Apply commonly used unsupervised learning techniques including clustering and pr
 
 # Content
 
-Cluster Analysis
-Principal component analysis (PCA)
-SVM
+1. Cluster Analysis  
+2. Principal component analysis (PCA)  
+3. SVM
