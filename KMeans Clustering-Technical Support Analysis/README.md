@@ -11,3 +11,9 @@ Technical support data can often be a rich source of information on opportunitie
 **Replace_percent** :          ***float64***  : How many of them require replacement.  
 **In_warranty_percent** :        ***int64***  : Percentage of time it occurs in warranty period or not.  
 **Post_warranty_percent** :      ***int64***  : Percent of time it occurs after warranty period is over.  
+
+
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
