@@ -4,7 +4,7 @@ Technical support data can often be a rich source of information on opportunitie
 
 ## Features of the dataset
 
-| PROBLEM TYPE | OBJECT | DESCRIPTION |  
+| PROBLEM TYPE | DATA TYPE | DESCRIPTION |  
 | --- | --- | --- |
 | no_of_cases | int64 | Count for the number of time the problem has occurred in unit of time |  
 | Avg_pending_calls | float64 | Average of time for pending calls. |  
@@ -13,8 +13,3 @@ Technical support data can often be a rich source of information on opportunitie
 | Replace_percent | float64 |  How many of them require replacement. |  
 | In_warranty_percent | int64 | Percentage of time it occurs in warranty period or not. |  
 | Post_warranty_percen | int64 | Percent of time it occurs after warranty period is over |  
-
-| PROBLEM TYPE | Description |
-| --- | --- |
-| git status | List all new or modified files |  
-| git diff | Show file differences that haven't been staged |
